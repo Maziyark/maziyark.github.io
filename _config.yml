@@ -1,0 +1,19 @@
+theme: jekyll-theme-cayman
+
+title: Welcome!
+#description: [My name is Maziyar and I'm PhD candidate at UT Dallas.]
+
+#show_downloads: ["false"]
+
+  
+markdown: GFM
+google_analytics: [UA-129308881-1]
+github:
+  is_project_page: false
+#show_downloads: ["false"]
+
+[//]: # baseurl: "https://maziyark.github.io/MK/"
+[//]: # url: "https://maziyark.github.io/MK/" 
+[//]: # markdown: GFM
+plugins:
+  - jekyll-seo-tag
