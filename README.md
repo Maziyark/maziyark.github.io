@@ -18,7 +18,7 @@ You can learn about some of my ongoing projects and publications here:
   <dt>Latest Projects</dt>
   <dd>
     <a href="https://maziyark.github.io/InSilico_TEVG/">In Silico  G&R in arterial beds & Tissue Engineered Vascular Grafts</a>: you can find the manuscripts <a href="https://www.liebertpub.com/doi/full/10.1089/ten.tec.2019.0103">here  </a>.
-    <img src="https://maziyark.github.io/MK/assets/mk_papers_3_1.jpg" alt="Schema of Modeling Framework.">
+    <img src="https://maziyark.github.io/assets/mk_papers_3_1.jpg" alt="Schema of Modeling Framework.">
   </dd>
   <dd>
     <a href="https://maziyark.github.io/DeepIVUS/">DeepIVUS</a>: A toolbox for analysing VH-IVUS images and predicting risk of adverse cardiac events.
@@ -26,9 +26,9 @@ You can learn about some of my ongoing projects and publications here:
   <dt>Previous Projects</dt>
   <dd>
     <a href="https://www.ncbi.nlm.nih.gov/pubmed/24735974">Patient-specific FEA of human femur fracture</a>
-    <img src="https://maziyark.github.io/MK/assets/mk_papers_1_1.jpg" alt="Graphical Abstract">
+    <img src="https://maziyark.github.io/assets/mk_papers_1_1.jpg" alt="Graphical Abstract">
     <a>MATLAB-ANSYS library for Traction Force Microscopy</a>
-    <img src="https://maziyark.github.io/MK/assets/mk_papers_4_1.jpg" alt="Traction Force Microscopy">
+    <img src="https://maziyark.github.io/assets/mk_papers_4_1.jpg" alt="Traction Force Microscopy">
   </dd>
   <dt>Publications
     </dt>
@@ -58,6 +58,6 @@ You can learn about some of my ongoing projects and publications here:
 </p>
 <p style="text-align: center;"> 
   <font size="-1">
-    <a href="https://maziyark.github.io/MK/">Home</a>
+    <a href="https://maziyark.github.io/">Home</a>
   </font>
 </p>
