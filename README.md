@@ -13,15 +13,15 @@ I have developed a coupled AB-FEA (Agent Based - Finite Element Analysis) modeli
 Our research is funded by the American Heart Association ([AHA Predoctoral Fellowship and SDG](https://professional.heart.org/idc/groups/ahamah-public/@wcm/@sop/@rsch/documents/downloadable/ucm_433355.pdf)) and the NIH ([5R01HL136776-02](https://projectreporter.nih.gov/project_info_details.cfm?aid=9618585&icde=46505989&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=)).
 
 You can learn about some of my ongoing projects and publications here:
-
+!({{site.url}}{{site.baseurl}}/assets/mk_papers_5_2_1.gif)
 
 <dl>
   <dt>Latest Projects</dt>
     <dd>
     <a href="https://github.com/mzyrke/CMA/">CMA</a>: Cardiac Mechanics Analyzer (CMA) is a set of python & MATLAB libraries for image-based analysis of cardiac contractile function through motion analysis, strain calculation, and resolution enhancement: <a href="https://link.springer.com/chapter/10.1007/978-3-030-78710-3_27">Paper 01</a>.
     <p align="center" style="text-align: center;">   
-    <img src=![]({{site.url}}{{site.baseurl}}/assets/mk_papers_5_2_1.gif) alt="Mouse Left Ventricle." class="center" style="width: 20vw; min-width: 50px;"> 
-    <img src="https://github.com/Maziyark/maziyark.github.io/blob/main/assets/mk_papers_5_2_2.gif" alt="Mouse Left Ventricle." class="center" style="width: 20vw; min-width: 50px;"> 
+    <img src="https://maziyark.github.io/assets/mk_papers_5_2_1.gif" alt="Mouse Left Ventricle." class="center" style="width: 20vw; min-width: 50px;"> 
+    <img src="https://maziyark.github.io/assets/mk_papers_5_2_2.gif" alt="Mouse Left Ventricle." class="center" style="width: 20vw; min-width: 50px;"> 
 </p>
   </dd>
   <dd>
