@@ -20,8 +20,8 @@ You can learn about some of my ongoing projects and publications here:
     <dd>
     <a href="https://github.com/mzyrke/CMA/">CMA</a>: Cardiac Mechanics Analyzer (CMA) is a set of python & MATLAB libraries for image-based analysis of cardiac contractile function through motion analysis, strain calculation, and resolution enhancement: <a href="https://link.springer.com/chapter/10.1007/978-3-030-78710-3_27">Paper 01</a>.
     <p align="center" style="text-align: center;">   
-    <img src="https://github.com/Maziyark/maziyark.github.io/blob/main/assets/mk_papers_5_2_1.gif" alt="Mouse Left Ventricle." class="center" style="width: 13vw; min-width: 50px;"> 
-    <img src="https://github.com/Maziyark/maziyark.github.io/blob/main/assets/mk_papers_5_2_2.gif" alt="Mouse Left Ventricle." class="center" style="width: 13vw; min-width: 50px;"> 
+    <img src="https://github.com/Maziyark/maziyark.github.io/blob/main/assets/mk_papers_5_2_1.gif" alt="Mouse Left Ventricle." class="center" style="width: 20vw; min-width: 50px;"> 
+    <img src="https://github.com/Maziyark/maziyark.github.io/blob/main/assets/mk_papers_5_2_2.gif" alt="Mouse Left Ventricle." class="center" style="width: 20vw; min-width: 50px;"> 
 </p>
   </dd>
   <dd>
@@ -36,9 +36,13 @@ You can learn about some of my ongoing projects and publications here:
   <dt>Previous Projects</dt>
   <dd>
     <a href="https://www.ncbi.nlm.nih.gov/pubmed/24735974">Patient-specific FEA of human femur fracture</a>
-    <img src="https://maziyark.github.io/assets/mk_papers_1_1.jpg" alt="Graphical Abstract">
+    <p align="center" style="text-align: center;">
+    <img src="https://maziyark.github.io/assets/mk_papers_1_1.jpg" alt="Graphical Abstract" class="center" style="width: 40vw; min-width: 100px;">
+    </p>
     <a>MATLAB-ANSYS library for Traction Force Microscopy</a>
-    <img src="https://maziyark.github.io/assets/mk_papers_4_1.jpg" alt="Traction Force Microscopy">
+    <p align="center" style="text-align: center;">
+    <img src="https://maziyark.github.io/assets/mk_papers_4_1.jpg" alt="Traction Force Microscopy" class="center" style="width: 30vw; min-width: 100px;">
+    </p>
   </dd>
   <dt>Publications
     </dt>
@@ -57,7 +61,7 @@ You can learn about some of my ongoing projects and publications here:
 </dl>
 
 
-<p style="text-align: center;"> 
+<p align="center" style="text-align: center;"> 
   <font size="-1">
     <a href="https://scholar.google.com/citations?user=59WprqwAAAAJ&hl=en" target="_blank">Google Scholar</a> | 
     <a href="https://www.linkedin.com/in/maziyark/" target="_blank">LinkedIn</a> | 
@@ -66,7 +70,7 @@ You can learn about some of my ongoing projects and publications here:
     <a href="https://github.com/MZYRKE/" target="_blank">GitHub</a>
   </font>
 </p>
-<p style="text-align: center;"> 
+<p align="center" style="text-align: center;"> 
   <font size="-1">
     <a href="https://maziyark.github.io/">Home</a>
   </font>
