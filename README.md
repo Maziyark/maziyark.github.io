@@ -26,7 +26,9 @@ You can learn about some of my ongoing projects and publications here:
   </dd>
   <dd>
     <a href="https://maziyark.github.io/InSilico_TEVG/">In Silico  G&R in arterial beds & Tissue Engineered Vascular Grafts</a>: you can find the manuscripts <a href="https://www.liebertpub.com/doi/full/10.1089/ten.tec.2019.0103">here  </a>.
-    <img src="https://maziyark.github.io/assets/mk_papers_3_1.jpg" alt="Schema of Modeling Framework.">
+    <p align="center" style="text-align: center;">
+    <img src="https://maziyark.github.io/assets/mk_papers_3_1.jpg" alt="Schema of Modeling Framework." class="center" style="width: 40vw; min-width: 100px;">
+    </p>
   </dd>
   <dd>
     <a href="https://maziyark.github.io/DeepIVUS/">DeepIVUS</a>: A toolbox for analysing VH-IVUS images and predicting risk of adverse cardiac events.
