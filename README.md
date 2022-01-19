@@ -3,7 +3,7 @@ Hey!
 
 My name is Maziyar.
 
-I'm an Postdoctoral Fellow and computational mechanobiologist working at the C2BL (TAMU), where our goal is to predict initiation and progression of cardiovascular diseases using patient specific computational models.
+I'm a Postdoctoral Fellow and computational mechanobiologist working at the C2BL (TAMU), where our goal is to predict initiation and progression of cardiovascular diseases using patient specific computational models.
 
 I'm a mechanical/biomedical engineer by training with a passion for computational mechanobiology and AI. 
 I'm highly skilled in Java programming, MATLAB/python scripting, Agent-Based Modeling, and of course FEA simulations (ANSYS Workbench, APDL scripting, and COMSOL).
