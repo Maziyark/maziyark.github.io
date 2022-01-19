@@ -3,10 +3,11 @@ Hey!
 
 My name is Maziyar.
 
-I'm an AHA Predoctoral Fellow and computational mechanobiologist working at the Vascular Mechanobioloby Lab (UTD), where our goal is to predict initiation and progression of atherosclerosis using patient specific computational models.
+I'm an Postdoctoral Fellow and computational mechanobiologist working at the C2BL (TAMU), where our goal is to predict initiation and progression of cardiovascular diseases using patient specific computational models.
 
 I'm a mechanical/biomedical engineer by training with a passion for computational mechanobiology and AI. 
 I'm highly skilled in Java programming, MATLAB/python scripting, Agent-Based Modeling, and of course FEA simulations (ANSYS Workbench, APDL scripting, and COMSOL).
+
 I have developed a coupled AB-FEA (Agent Based - Finite Element Analysis) modeling framework to study growth and remodeling in blood vessels in which the Agent-Based Model simulates the interactions of the cells and the FEA calculates the stress/strain distributions. You can find the graphical outline of the modeling framework [here](https://maziyark.github.io/InSilico_TEVG/).   
 
 Our research is funded by the American Heart Association ([AHA Predoctoral Fellowship and SDG](https://professional.heart.org/idc/groups/ahamah-public/@wcm/@sop/@rsch/documents/downloadable/ucm_433355.pdf)) and the NIH ([5R01HL136776-02](https://projectreporter.nih.gov/project_info_details.cfm?aid=9618585&icde=46505989&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=)).
@@ -16,6 +17,13 @@ You can learn about some of my ongoing projects and publications here:
 
 <dl>
   <dt>Latest Projects</dt>
+    <dd>
+    <a href="https://github.com/mzyrke/CMA/">CMA</a>: Cardiac Mechanics Analyzer (CMA) is a set of python & MATLAB libraries for image-based analysis of cardiac contractile function through motion analysis, strain calculation, and resolution enhancement: <a href="https://link.springer.com/chapter/10.1007/978-3-030-78710-3_27">Paper 01</a>.
+    <p align="center" style="text-align: center;">   
+    <img src="https://github.com/mzyrke/CMA/blob/main/assets/Mouse_Left_Ventricle_Endocardium_01.gif" alt="Mouse Left Ventricle." class="center" style="width: 23vw; min-width: 50px;"> 
+    <img src="https://github.com/mzyrke/CMA/blob/main/assets/Mouse_Left_Ventricle_Endocardium_02.gif" alt="Mouse Left Ventricle." class="center" style="width: 23vw; min-width: 50px;"> 
+</p>
+  </dd>
   <dd>
     <a href="https://maziyark.github.io/InSilico_TEVG/">In Silico  G&R in arterial beds & Tissue Engineered Vascular Grafts</a>: you can find the manuscripts <a href="https://www.liebertpub.com/doi/full/10.1089/ten.tec.2019.0103">here  </a>.
     <img src="https://maziyark.github.io/assets/mk_papers_3_1.jpg" alt="Schema of Modeling Framework.">
