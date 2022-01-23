@@ -48,6 +48,8 @@ You can learn about some of my ongoing projects and publications here:
     </dt>
   <dd>
   <ol>
+    <li>Keshavarzian, M., et al. (2021). An Image Registration Framework to Estimate 3D Myocardial Strains from Cine Cardiac MRI in Mice. Functional Imaging and Modeling of the Heart (pp. 273-284). Springer, Cham.  <a href="https://pubmed.ncbi.nlm.nih.gov/34263263/">[pubmed]</a>
+    </li>
     <li>Keshavarzian, M., Meyer, C. A., & Hayenga, H. N. (2019). In Silico Tissue Engineering: A Coupled Agent-Based Finite Element Approach. Tissue Engineering Part C: Methods, 25(11), 641-654. <a href="https://www.ncbi.nlm.nih.gov/pubmed/31392930">[pubmed]</a>
     </li>
     <li>Keshavarzian, M., Meyer, C. A., & Hayenga, H. N. (2018). Mechanobiological model of arterial growth and remodeling. Biomechanics and modeling in mechanobiology, 17(1), 87-101. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28823079">[pubmed]</a>
