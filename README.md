@@ -13,7 +13,7 @@ I have developed a coupled AB-FEA (Agent Based - Finite Element Analysis) modeli
 Our research is funded by the American Heart Association ([AHA Predoctoral Fellowship and SDG](https://professional.heart.org/idc/groups/ahamah-public/@wcm/@sop/@rsch/documents/downloadable/ucm_433355.pdf)) and the NIH ([5R01HL136776-02](https://projectreporter.nih.gov/project_info_details.cfm?aid=9618585&icde=46505989&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=)).
 
 You can learn about some of my ongoing projects and publications here:
-!({{site.url}}{{site.baseurl}}/assets/mk_papers_5_2_1.gif)
+
 
 <dl>
   <dt>Latest Projects</dt>
