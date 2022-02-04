@@ -20,8 +20,8 @@ You can learn about some of my ongoing projects and publications here:
     <dd>
     <a href="https://github.com/mzyrke/CMA/">CMA</a>: Cardiac Mechanics Analyzer (CMA) is a set of python & MATLAB libraries for image-based analysis of cardiac contractile function through motion analysis, strain calculation, and resolution enhancement: <a href="https://link.springer.com/chapter/10.1007/978-3-030-78710-3_27">Paper 01</a>.
     <p align="center" style="text-align: center;">   
-    <img src="https://maziyark.github.io/assets/mk_papers_5_2_1.gif" alt="Mouse Left Ventricle." class="center" style="width: 20vw; min-width: 50px;"> 
-    <img src="https://maziyark.github.io/assets/mk_papers_5_2_2.gif" alt="Mouse Left Ventricle." class="center" style="width: 20vw; min-width: 50px;"> 
+    <img src="https://raw.githubusercontent.com/mzyrke/CMA/main/assets/Mouse_Left_Ventricle_Endocardium_03.gif?token=GHSAT0AAAAAABQDDEPZ4GMMWVX36QZVATKYYQGFC4A" alt="Mouse Left Ventricle." class="center" style="width: 20vw; min-width: 50px;"> 
+    <img src="https://raw.githubusercontent.com/mzyrke/CMA/main/assets/Mouse_Left_Ventricle_Endocardium_04.gif?token=GHSAT0AAAAAABQDDEPYX3QDBIMSZVPJOIYSYQGFGRQ" alt="Mouse Left Ventricle." class="center" style="width: 20vw; min-width: 50px;"> 
 </p>
   </dd>
   <dd>
