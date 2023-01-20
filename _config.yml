@@ -72,3 +72,6 @@ defaults:
 
 # empty the footer
 #footer:  ""
+google_analytics: [UA-129308881-1]
+github:
+  is_project_page: false
