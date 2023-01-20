@@ -31,6 +31,8 @@ nav_order: 2
     <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/cine_mri_strains_mouse_lv_3d.gif?raw=true" alt="LV Strains." class="center" width ="800"> 
 </p> 
 
+---
+
 ### Echo
 Toolbox for STE (2D ultrasound) in MATLAB 
 <p align="center" style="text-align: center;"> 
@@ -41,6 +43,7 @@ Toolbox for STE (2D ultrasound) in MATLAB
 
      | [Abstract 01](https://www.ahajournals.org/doi/abs/10.1161/circ.144.suppl_1.14317)  |  [Abstract 02](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:YOwf2qJgpHMC)
 
+---
 
 ### AB-FEA 
 - APhy: The first 3D fully coupled Agent Based - Finite Element Analysis (AB-FEA) modeling framework to study progression of cardiovascular diseases and growth and remodeling in blood vessels 
@@ -55,6 +58,7 @@ Toolbox for STE (2D ultrasound) in MATLAB
     <img src="https://maziyark.github.io/assets/mk_papers_3_1.jpg?raw=true" alt="Schema of Modeling Framework." class="center" style="width: 35vw; min-width: 300px;"> 
 </p>
 
+---
 
 ### [DeepIVUS](https://maziyark.github.io/DeepIVUS/) 
 A toolbox for analysing VH-IVUS images and predicting risk of adverse cardiac events.
@@ -62,6 +66,8 @@ A toolbox for analysing VH-IVUS images and predicting risk of adverse cardiac ev
 <p align="center" style="text-align: center;">   
     <img src="https://maziyark.github.io/DeepIVUS/assets/B2F.gif?raw=true" alt="Schema of Modeling Framework." class="center" style="width: 30vw; min-width: 100px;"> 
 </p>
+
+---
 
 ### TFM-FEA
 - [TFM-FEA](https://github.com/mzyrke/TFM_FEA): MATLAB-ANSYS library for calculating the forces that cells exert on their env. using Traction Force Microscopy (TFM)
