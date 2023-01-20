@@ -23,8 +23,8 @@ nav_order: 2
     Motion of mouse left <a href="https://en.wikipedia.org/wiki/Ventricle_(heart)">ventriclular</a> <a href="https://en.wikipedia.org/wiki/Endocardium">endocardium</a> estimated by deformable image registration of cine-MRI scans
 </p> 
 <p align="center" style="text-align: center;"> 
-    <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/Mouse_Left_Ventricle_Endocardium_03.gif?raw=true" alt="Mouse Left Ventricle." class="center"  width="400"> 
-    <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/Mouse_Left_Ventricle_Endocardium_04.gif?raw=true" alt="Mouse Left Ventricle." class="center" width="400"> 
+    <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/Mouse_Left_Ventricle_Endocardium_03.gif?raw=true" alt="Mouse Left Ventricle." class="center"  width="300"> 
+    <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/Mouse_Left_Ventricle_Endocardium_04.gif?raw=true" alt="Mouse Left Ventricle." class="center" width="300"> 
     <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/cine_mri_strains_mouse_lv_3d.gif" alt="LV Strains." class="center" width ="900"> 
 </p> 
 
