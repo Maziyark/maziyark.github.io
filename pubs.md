@@ -7,7 +7,6 @@ nav_order: 6
 
 # {{ page.title }}
 
-{{ site.full_title }}
 
 ## Publications
 1.	*Keshavarzian, M.*, et al. (2022). Classification-based Super-Resolution Reconstruction of Cine MRI Scans for Calculation of Myocardial Strains. Journal of Cardiovascular Magnetic Resonance. [under pub.]()
