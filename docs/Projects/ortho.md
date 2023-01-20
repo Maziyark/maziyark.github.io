@@ -25,7 +25,7 @@ nav_order: 2
 ## <a name="P_QCTF"></a> Analysis of Strength & Failure Patterns of Proximal Femora using Computational & Experimental methods
 ### __Graphical Abstract__
 <p align="center" style="text-align: center;">   
-    <img src="https://maziyark.github.io/assets/mk_papers_1_1.jpg" alt="Graphical abstract." class="center" style="width: 50vw; min-width: 300px;"> 
+    <img src="https://github.com/Maziyark/assets/blob/main/mk_papers_1_1.jpg?raw=true" alt="Graphical abstract." class="center" style="width: 50vw; min-width: 300px;"> 
 </p>
 
 
