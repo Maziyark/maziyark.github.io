@@ -25,7 +25,7 @@ nav_order: 2
 ## <a name="P_QCTF"></a> Analysis of Strength & Failure Patterns of Proximal Femora using Computational & Experimental methods
 ### __Graphical Abstract__
 <p align="center" style="text-align: center;">   
-    <img src="https://github.com/Maziyark/assets/blob/main/mk_papers_1_1.jpg?raw=true" alt="Graphical abstract." class="center" style="width: 50vw; min-width: 300px;"> 
+    <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/mk_papers_1_1.jpg?raw=true" alt="Graphical abstract." class="center" style="width: 50vw; min-width: 300px;"> 
 </p>
 
 
@@ -55,7 +55,7 @@ nav_order: 2
 
 ### __Graphical Abstract__
 <p align="center" style="text-align: center;">   
-    <img src="https://github.com/mzyrke/mzyrke/blob/main/assets/mk_vo_00.png" alt="Graphical abstract." class="center" style="width: 30vw; min-width: 100px;"> 
+    <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/mk_vo_00.png?raw=true" alt="Graphical abstract." class="center" style="width: 30vw; min-width: 100px;"> 
 </p>
 
 ### __Goals__
@@ -83,8 +83,8 @@ nav_order: 2
 ### __Graphical Abstract__
 
 <p align="center" style="text-align: center;">   
-    <img src="https://github.com/mzyrke/mzyrke/blob/main/assets/mk_bb_01.jpg" alt="BB Design 01." class="center" style="width: 20vw; min-width: 100px;"> 
-    <img src="https://github.com/mzyrke/mzyrke/blob/main/assets/mk_bb_03.jpg" alt="BB Design 02." class="center" style="width: 12vw; min-width: 50px;"> 
+    <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/mk_bb_01.jpg?raw=true" alt="BB Design 01." class="center" style="width: 20vw; min-width: 100px;"> 
+    <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/mk_bb_03.jpg?raw=true" alt="BB Design 02." class="center" style="width: 12vw; min-width: 50px;"> 
 </p>
 <p align="center" style="text-align: center;">   
    
