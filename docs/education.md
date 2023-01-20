@@ -10,7 +10,7 @@ nav_order: 3
 
 
 > Ph.D., Biomedical Engineering, The University of Texas at Dallas, (Aug 2020).
->> Dissertation: In-silico Vascular Growth and Remodeling Insights From Coupling Biology and Mechanics
+>> Dissertation: _In-silico Vascular Growth and Remodeling Insights From Coupling Biology and Mechanics_
 
 > M.Sc., Biomedical Engineering, The University of Texas at Dallas, (May 2016).
 
