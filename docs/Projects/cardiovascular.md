@@ -23,12 +23,17 @@ nav_order: 2
     Motion of mouse left <a href="https://en.wikipedia.org/wiki/Ventricle_(heart)">ventriclular</a> <a href="https://en.wikipedia.org/wiki/Endocardium">endocardium</a> estimated by deformable image registration of cine-MRI scans
 </p> 
 <p align="center" style="text-align: center;"> 
+    <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/cine_mri_overlay_displacement_2d.gif?raw=true" alt="Mouse Left Ventricle." class="center"  width="300"> 
+<p align="center" style="text-align: center;"> 
     <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/Mouse_Left_Ventricle_Endocardium_03.gif?raw=true" alt="Mouse Left Ventricle." class="center"  width="300"> 
     <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/Mouse_Left_Ventricle_Endocardium_04.gif?raw=true" alt="Mouse Left Ventricle." class="center" width="300"> 
     <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/cine_mri_strains_mouse_lv_3d.gif?raw=true" alt="LV Strains." class="center" width ="700"> 
 </p> 
 
-- Toolbox for STE (2D ultrasound) in MATLAB [Abstract 01](https://www.ahajournals.org/doi/abs/10.1161/circ.144.suppl_1.14317)  |  [Abstract 02](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:YOwf2qJgpHMC)
+### Echo
+> Toolbox for STE (2D ultrasound) in MATLAB 
+
+[Abstract 01](https://www.ahajournals.org/doi/abs/10.1161/circ.144.suppl_1.14317)  |  [Abstract 02](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:YOwf2qJgpHMC)
 
 <!--  ## <a name="P_BME_P"></a> Previous projects -->
 ### AB-FEA 
