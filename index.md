@@ -9,7 +9,7 @@ permalink: /
 ---
 
 <p align="center" style="text-align: center;">   
-    <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/LinkedIn_banner_01.png?raw=true" alt="Banner" class="center" style="width: 50vw; min-width: 300px;"> 
+    <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/LinkedIn_banner_01.png?raw=true" alt="Banner" class="center" style="width: 100vw; min-width: 300px;"> 
 </p>
 
 Hi! My name is Maziyar. I'm a Postdoctoral Fellow and computational mechanobiologist working at the C2BL (TAMU), where our goal is to better understand cardiac diseases by developing novel computational tools.
