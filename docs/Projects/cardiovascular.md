@@ -25,9 +25,11 @@ nav_order: 2
 </p> 
 
 <p align="center" style="text-align: center;"> 
-    <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/cine_mri_overlay_displacement_2d.gif?raw=true" alt="Mouse Left Ventricle." class="center"  width="200">
-    <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/Mouse_Left_Ventricle_Endocardium_03.gif?raw=true" alt="Mouse Left Ventricle." class="center"  width="300"> 
-    <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/Mouse_Left_Ventricle_Endocardium_04.gif?raw=true" alt="Mouse Left Ventricle." class="center" width="300"> 
+    <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/cine_mri_overlay_displacement_2d.gif?raw=true" alt="Mouse Left Ventricle." class="center"  width="350">
+</p> 
+<p align="center" style="text-align: center;"> 
+    <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/Mouse_Left_Ventricle_Endocardium_03.gif?raw=true" alt="Mouse Left Ventricle." class="center"  width="350"> 
+    <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/Mouse_Left_Ventricle_Endocardium_04.gif?raw=true" alt="Mouse Left Ventricle." class="center" width="350"> 
     <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/cine_mri_strains_mouse_lv_3d.gif?raw=true" alt="LV Strains." class="center" width ="800"> 
 </p> 
 
