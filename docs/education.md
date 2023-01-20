@@ -16,5 +16,5 @@ nav_order: 3
 
 > **M.Sc., Mechanical Engineering – Applied Mechanics**, TMU (March 2011).
 
-> **B.Sc., Mechanical Engineering – Thermofluids**, TMU (March 2011).
+> **B.Sc., Mechanical Engineering – Thermofluids**, IAU (March 2011).
 
