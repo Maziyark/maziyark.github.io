@@ -15,6 +15,7 @@ nav_order: 2
 {:toc}
 
 ---
+
 ### CMA
 - [CMA](https://github.com/mzyrke/CMA): Cardiac Mechanics Analyzer (CMA) is a set of python & MATLAB libraries for image-based analysis of cardiac contractile function through motion analysis, strain calculation, and resolution enhancement: 
     - Manuscripts: [Paper 01](https://link.springer.com/chapter/10.1007/978-3-030-78710-3_27)
@@ -40,7 +41,7 @@ Toolbox for STE (2D ultrasound) in MATLAB
 
      | [Abstract 01](https://www.ahajournals.org/doi/abs/10.1161/circ.144.suppl_1.14317)  |  [Abstract 02](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:YOwf2qJgpHMC)
 
-<!--  ## <a name="P_BME_P"></a> Previous projects -->
+
 ### AB-FEA 
 - APhy: The first 3D fully coupled Agent Based - Finite Element Analysis (AB-FEA) modeling framework to study progression of cardiovascular diseases and growth and remodeling in blood vessels 
     - Packages/software used: Java, REPAST Simphony, ANSYS (APDL), and MATLAB
