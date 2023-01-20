@@ -44,6 +44,7 @@ markdown: kramdown
 google_analytics: [UA-129308881-1]
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
   
 
 # Exclude from processing.
