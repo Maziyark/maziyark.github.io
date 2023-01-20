@@ -5,9 +5,10 @@
 layout: page
 title: Home
 nav_order: 1
+permalink: /
 ---
 
-# PWP
+#
 
 Hi!
 My name is Maziyar.
