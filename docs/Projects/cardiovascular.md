@@ -23,6 +23,7 @@ nav_order: 2
 <p align="center" style="text-align: center;"> 
     Motion of mouse left <a href="https://en.wikipedia.org/wiki/Ventricle_(heart)">ventriclular</a> <a href="https://en.wikipedia.org/wiki/Endocardium">endocardium</a> estimated by deformable image registration of cine-MRI scans
 </p> 
+
 <p align="center" style="text-align: center;"> 
     <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/cine_mri_overlay_displacement_2d.gif?raw=true" alt="Mouse Left Ventricle." class="center"  width="300"> 
 <p align="center" style="text-align: center;"> 
