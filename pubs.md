@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications & Presentations
+title: Publications
 permalink: /pubs/
 nav_order: 6
 ---
