@@ -7,7 +7,6 @@ nav_order: 7
 
 # {{ page.title }}
 
-{{ site.full_title }}
 
 1.  $54K     |   American Heart Association Predoctoral Fellowship | AHA | Dallas, TX  | (2017)
 1.  $10K     |   Jonsson Family Bioengineering Fellowship | The University of Texas at Dallas |  Richardson, TX  |  (2017)
