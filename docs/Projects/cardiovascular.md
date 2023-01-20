@@ -39,20 +39,20 @@ nav_order: 2
     - Manuscripts: [Paper 01](https://www.liebertpub.com/doi/full/10.1089/ten.tec.2019.0103) | [Paper 02](https://link.springer.com/article/10.1007/s10237-017-0946-y)  | [Abstract 01](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:3fE2CSJIrl8C) | [Abstract 02](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:kNdYIx-mwKoC) | [Abstract 03](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:Zph67rFs4hoC) | [Abstract 04](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:ULOm3_A8WrAC)
  
 <p align="center" style="text-align: center;">   
-    <img src="https://maziyark.github.io/assets/mk_papers_3_1.jpg" alt="Schema of Modeling Framework." class="center" style="width: 35vw; min-width: 300px;"> 
+    <img src="https://maziyark.github.io/assets/mk_papers_3_1.jpg?raw=true" alt="Schema of Modeling Framework." class="center" style="width: 35vw; min-width: 300px;"> 
 </p>
 
 
 - [DeepIVUS](https://maziyark.github.io/DeepIVUS/) A toolbox for analysing VH-IVUS images and predicting risk of adverse cardiac events.
     - Packages/software used: MATLAB, python
 <p align="center" style="text-align: center;">   
-    <img src="https://maziyark.github.io/DeepIVUS/assets/B2F.gif" alt="Schema of Modeling Framework." class="center" style="width: 30vw; min-width: 100px;"> 
+    <img src="https://maziyark.github.io/DeepIVUS/assets/B2F.gif?raw=true" alt="Schema of Modeling Framework." class="center" style="width: 30vw; min-width: 100px;"> 
 </p>
 
 #### TFM-FEA
 - [TFM-FEA](https://github.com/mzyrke/TFM_FEA): MATLAB-ANSYS library for calculating the forces that cells exert on their env. using Traction Force Microscopy (TFM)
     - Manuscripts: [Paper 01](https://link.springer.com/article/10.1007/s10439-021-02881-1)
 <p align="center" style="text-align: center;">   
-    <img src="https://maziyark.github.io/assets/mk_papers_4_1.jpg" alt="sample result." class="center" style="width: 25vw; min-width: 100px;"> 
+    <img src="https://maziyark.github.io/assets/mk_papers_4_1.jpg?raw=true" alt="sample result." class="center" style="width: 35vw; min-width: 100px;"> 
 </p>
     
