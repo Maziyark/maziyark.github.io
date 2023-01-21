@@ -15,13 +15,6 @@ nav_order: 2
 {:toc}
 
 ---
-# Orthopedic Biomechanics
-## Projects
-- [Analysis of Strength & Failure Patterns of Proximal Femur](https://github.com/mzyrke/mzyrke/tree/main/ortho#-analysis-of-strength--failure-patterns-of-proximal-femora-using-computational--experimental-methods)
-- [QCT-based Finite Element Modeling of the Valgus Osteotomy Operation](https://github.com/mzyrke/mzyrke/tree/main/ortho#-patient-specific-qct-based-finite-element-modeling-of-the-valgus-osteotomy-operation)
-- [Murine Femoral Fracture Device](https://github.com/mzyrke/mzyrke/tree/main/ortho#murine-femoral-fracture-device)
-
----
 ## <a name="P_QCTF"></a> Analysis of Strength & Failure Patterns of Proximal Femora using Computational & Experimental methods
 ### __Graphical Abstract__
 <p align="center" style="text-align: center;">   
