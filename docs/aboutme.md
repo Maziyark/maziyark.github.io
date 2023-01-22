@@ -7,7 +7,6 @@ nav_order: 2
 
 # {{ page.title }}
 
-{{ site.full_title }}
 
 
 I'm a mechanical/biomedical engineer by training with a passion for computational mechanobiology and AI. I'm highly skilled in Java programming, MATLAB/python scripting, Agent-Based Modeling, and of course FEA simulations (ANSYS Workbench, APDL scripting, and COMSOL).
