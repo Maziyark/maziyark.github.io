@@ -45,7 +45,7 @@ Toolbox for STE (2D ultrasound) in MATLAB
 ---
 
 ### AB-FEA 
-{: .note-title }
+{: .intro-title }
 > APhy
 >
 > The first 3D fully coupled Agent Based - Finite Element Analysis (AB-FEA) modeling framework to study progression of cardiovascular diseases and growth and remodeling in blood vessels:
@@ -55,7 +55,7 @@ Toolbox for STE (2D ultrasound) in MATLAB
 - [Project page](https://maziyark.github.io/InSilico_TEVG/) 
 - Manuscripts: 
 
-        [Paper 01](https://www.liebertpub.com/doi/full/10.1089/ten.tec.2019.0103) | [Paper 02](https://link.springer.com/article/10.1007/s10237-017-0946-y)  | [Abstract 01](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:3fE2CSJIrl8C) | [Abstract 02](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:kNdYIx-mwKoC) | [Abstract 03](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:Zph67rFs4hoC) | [Abstract 04](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:ULOm3_A8WrAC)
+    [Paper 01](https://www.liebertpub.com/doi/full/10.1089/ten.tec.2019.0103) | [Paper 02](https://link.springer.com/article/10.1007/s10237-017-0946-y)  | [Abstract 01](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:3fE2CSJIrl8C) | [Abstract 02](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:kNdYIx-mwKoC) | [Abstract 03](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:Zph67rFs4hoC) | [Abstract 04](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:ULOm3_A8WrAC)
  
 <p align="center" style="text-align: center;">   
     <img src="https://maziyark.github.io/assets/mk_papers_3_1.jpg?raw=true" alt="Schema of Modeling Framework." class="center" style="width: 35vw; min-width: 300px;"> 
