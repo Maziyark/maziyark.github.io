@@ -89,3 +89,7 @@ defaults:
 
 # empty the footer
 #footer:  ""
+callouts:
+  intro:
+    title: intro
+    color: purple
