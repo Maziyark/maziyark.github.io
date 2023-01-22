@@ -93,3 +93,6 @@ callouts:
   intro:
     title: intro
     color: purple
+  new:
+    title: new
+    color: green  
