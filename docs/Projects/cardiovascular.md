@@ -60,6 +60,7 @@ Toolbox for STE (2D ultrasound) in MATLAB
 <p align="center" style="text-align: center;">   
     <img src="https://maziyark.github.io/assets/mk_papers_3_1.jpg?raw=true" alt="Schema of Modeling Framework." class="center" style="width: 35vw; min-width: 300px;"> 
 </p>
+
 {: .new-title }
 > In-Silico Tissue Engineering using AB-FEA
 >
