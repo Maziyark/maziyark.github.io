@@ -106,3 +106,4 @@ callouts:
   warning:
     title: Warning
     color: red
+callouts_opacity: 0.5
