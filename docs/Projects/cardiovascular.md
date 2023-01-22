@@ -55,6 +55,7 @@ Toolbox for STE (2D ultrasound) in MATLAB
 - Received the [American Heart Association Predoctoral Fellowship](https://professional.heart.org/idc/groups/ahamah-public/@wcm/@sop/@rsch/documents/downloadable/ucm_433355.pdf) + ~ $2 million funding from [NIH](https://projectreporter.nih.gov/project_info_details.cfm?aid=9618585&icde=46505989&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=) & AHA
 - [Project page](https://maziyark.github.io/InSilico_TEVG/) 
 - Manuscripts: 
+
         [Paper 01](https://www.liebertpub.com/doi/full/10.1089/ten.tec.2019.0103) | [Paper 02](https://link.springer.com/article/10.1007/s10237-017-0946-y)  | [Abstract 01](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:3fE2CSJIrl8C) | [Abstract 02](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:kNdYIx-mwKoC) | [Abstract 03](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:Zph67rFs4hoC) | [Abstract 04](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:ULOm3_A8WrAC)
  
 <p align="center" style="text-align: center;">   
