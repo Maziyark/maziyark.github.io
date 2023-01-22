@@ -89,10 +89,20 @@ defaults:
 
 # empty the footer
 #footer:  ""
+
+callouts_level: quiet # or loud
 callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
   intro:
     title: intro
     color: purple
-  new:
-    title: new
-    color: green  
+  warning:
+    title: Warning
+    color: red
