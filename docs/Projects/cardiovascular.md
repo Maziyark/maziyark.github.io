@@ -50,6 +50,10 @@ Toolbox for STE (2D ultrasound) in MATLAB
 >
 > The first 3D fully coupled Agent Based - Finite Element Analysis (AB-FEA) modeling framework to study progression of cardiovascular diseases and growth and remodeling in blood vessels:
 
+{: .note-title }
+> My note title
+>
+> A paragraph with a custom title callout
 
 - Packages/software used: Java, REPAST Simphony, ANSYS (APDL), and MATLAB
 - Received the [American Heart Association Predoctoral Fellowship](https://professional.heart.org/idc/groups/ahamah-public/@wcm/@sop/@rsch/documents/downloadable/ucm_433355.pdf) + ~ $2 million funding from [NIH](https://projectreporter.nih.gov/project_info_details.cfm?aid=9618585&icde=46505989&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=) & AHA
