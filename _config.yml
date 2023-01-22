@@ -41,8 +41,8 @@ aux_links:
 nav_external_links:
   - title: Linkedin
     url: https://www.linkedin.com/in/maziyark/
-    hide_icon: false # set to true to hide the external link icon - defaults to false
-
+  - title: Google Scholar
+    url: https://scholar.google.com/citations?user=59WprqwAAAAJ&hl=en
     
 # Build settings
 markdown: kramdown
