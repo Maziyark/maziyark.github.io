@@ -56,7 +56,7 @@ APhy: The first 3D fully coupled Agent Based - Finite Element Analysis (AB-FEA) 
     <img src="https://maziyark.github.io/assets/mk_papers_3_1.jpg?raw=true" alt="Schema of Modeling Framework." class="center" style="width: 35vw; min-width: 300px;"> 
 </p>
 <p align="center" style="text-align: center;"> 
-    Predicted collagen fiber orientations & stress in a <a href="https://pubmed.ncbi.nlm.nih.gov/27108525/">Tissue Engineered Vascular Graft</a> <a href="https://en.wikipedia.org/wiki/Endocardium">endocardium</a> under biaxial cyclic loading during 12 weeks of culture.
+    Predicted collagen fiber orientations & stress in a <a href="https://pubmed.ncbi.nlm.nih.gov/27108525/">Tissue Engineered Vascular Graft</a> under biaxial cyclic loading during 12 weeks of culture.
 </p>
 <p align="center" style="text-align: center;">  
     <img src="https://github.com/Maziyark/InSilico_TEVG/blob/main/BA8C2CF.gif?raw=true" alt="Fiber Orientations" class="center" style="width: 45vw; min-width: 400px;"> 
