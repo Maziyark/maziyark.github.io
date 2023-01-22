@@ -86,7 +86,8 @@ A toolbox for analysing VH-IVUS images & comparing baseline & followup images.
 
 ### TFM-FEA
 [TFM-FEA](https://github.com/mzyrke/TFM_FEA): MATLAB-ANSYS library for calculating the forces that cells exert on their env. using Traction Force Microscopy (TFM)
-    - Manuscripts: [Paper 01](https://link.springer.com/article/10.1007/s10439-021-02881-1)
+
+- Manuscripts: [Paper 01](https://link.springer.com/article/10.1007/s10439-021-02881-1)
 <p align="center" style="text-align: center;">   
     <img src="https://maziyark.github.io/assets/mk_papers_4_1.jpg?raw=true" alt="sample result." class="center" style="width: 35vw; min-width: 200px;"> 
 </p>
