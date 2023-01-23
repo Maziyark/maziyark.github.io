@@ -51,7 +51,8 @@ markdown: kramdown
 google_analytics: [UA-129308881-1]
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
+
+#- jekyll-seo-tag
   
 
 # Exclude from processing.
@@ -113,4 +114,4 @@ callouts:
   warning:
     title: Warning
     color: red
-callouts_opacity: 0.5
+callouts_opacity: 1
