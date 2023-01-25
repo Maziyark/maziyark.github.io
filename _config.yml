@@ -48,11 +48,7 @@ nav_external_links:
 markdown: kramdown
 #theme: minima
 
-google_analytics: [UA-129308881-1]
-plugins:
-  - jekyll-feed
 
-#- jekyll-seo-tag
   
 
 # Exclude from processing.
@@ -115,3 +111,9 @@ callouts:
     title: Warning
     color: red
 callouts_opacity: 1
+# 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+# 
+google_analytics: [UA-129308881-1]
