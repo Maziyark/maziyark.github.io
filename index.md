@@ -19,7 +19,7 @@ My name is Maziyar.
 > I'm a computational mechanobiologist.
 > 
 > I develop models that help us better understand the interplay of biology & mechanics during progression of diseases. 
->   >  My focus is on vascular & cardiac diseases.
+
 
 You can learn about some of my ongoing projects here.
 
