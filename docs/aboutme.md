@@ -9,7 +9,7 @@ nav_order: 2
 
 
 
-- I'm a mechanical/biomedical engineer by training with a passion for computational mechanobiology and AI.
+- I'm a mechanical/biomedical engineer by training with a passion for computational [mechanobiology](https://en.wikipedia.org/wiki/Mechanobiology) and AI.
 - My research is at the interface of mechanical engineering, biomedical engineering, and computer science. 
 - I'm highly skilled in:
   - Java
