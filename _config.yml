@@ -26,6 +26,13 @@ url: "https://maziyark.github.io" # the base hostname & protocol for your site, 
 #twitter_username: jekyllrb
 github_username: maziyark
 
+# 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+# 
+ga_tracking:: "G-TFCGC0E1MB, UA-129308881-1"
+ga_tracking_anonymize_ip: false 
 
 #nav_links:
 #  Links:
@@ -111,9 +118,4 @@ callouts:
     title: Warning
     color: red
 callouts_opacity: 1
-# 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-# 
-google_analytics: [G-TFCGC0E1MB]
+
