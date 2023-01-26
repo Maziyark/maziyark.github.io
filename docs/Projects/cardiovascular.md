@@ -72,8 +72,8 @@ Toolbox for STE (2D ultrasound) in MATLAB
 
 
 <p align="center" style="text-align: center;">  
-    <img src="https://github.com/Maziyark/InSilico_TEVG/blob/main/BA8C2CF.gif?raw=true" alt="Fiber Orientations" class="center" style="width: 45vw; min-width: 400px;"> 
-    <img src="https://github.com/Maziyark/InSilico_TEVG/blob/main/assets/BA8C2StressMP.gif?raw=true" alt="MaxPStress" class="center" style="width: 45vw; min-width: 400px;"> 
+    <img src="https://github.com/Maziyark/InSilico_TEVG/blob/gh-pages/BA8C2CF.gif?raw=true" alt="Fiber Orientations" class="center" style="width: 45vw; min-width: 400px;"> 
+    <img src="https://github.com/Maziyark/InSilico_TEVG/blob/gh-pages/assets/BA8C2StressMP.gif?raw=true" alt="MaxPStress" class="center" style="width: 45vw; min-width: 400px;"> 
 </p> 
 
 ---
