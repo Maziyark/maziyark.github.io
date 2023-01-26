@@ -12,6 +12,14 @@ permalink: /
     <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/LinkedIn_banner_01.png?raw=true" alt="Banner" class="center" style="width: 100vw; min-width: 400px;"> 
 </p>
 
-Hi! My name is Maziyar. I'm a Postdoctoral Fellow and computational mechanobiologist working at the C2BL (TAMU), where our goal is to better understand cardiac diseases by developing novel computational tools.
-You can learn about some of my ongoing projects and publications here.
+👋 
+
+My name is Maziyar. 
+
+> I'm a computational mechanobiologist.
+> 
+> I develop models that help us better understand the interplay of biology & mechanics during progression of diseases. 
+>   >  My focus is on vascular & cardiac diseases.
+
+You can learn about some of my ongoing projects here.
 
