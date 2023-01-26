@@ -16,7 +16,7 @@ permalink: /
 
 My name is Maziyar. 
 
-> I'm a computational mechanobiologist.
+> I'm a computational [mechanobiologist](https://en.wikipedia.org/wiki/Mechanobiology).
 > 
 > I develop models that help us better understand the interplay of biology & mechanics during progression of diseases. 
 
