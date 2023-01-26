@@ -66,6 +66,11 @@ Toolbox for STE (2D ultrasound) in MATLAB
 >
 > Predicted collagen fiber orientations & stress distributions in a [Tissue Engineered Vascular Graft](https://pubmed.ncbi.nlm.nih.gov/27108525/) under biaxial cyclic loading during 12 weeks of culture. The simulations were prformed using the [AB-FEA](https://maziyark.github.io/docs/Projects/cardiovascular.html#ab-fea) modeling framework.
 
+> Fiber orientation, at any point in space, is defined using two angles &mdash; $\alpha$ & $\beta$.
+> 
+> An $\alpha$ close to 90 $^\circ$, guarantees the helical structure of collagen fibers. 
+
+
 <p align="center" style="text-align: center;">  
     <img src="https://github.com/Maziyark/InSilico_TEVG/blob/main/BA8C2CF.gif?raw=true" alt="Fiber Orientations" class="center" style="width: 45vw; min-width: 400px;"> 
     <img src="https://github.com/Maziyark/InSilico_TEVG/blob/main/assets/BA8C2StressMP.gif?raw=true" alt="MaxPStress" class="center" style="width: 45vw; min-width: 400px;"> 
