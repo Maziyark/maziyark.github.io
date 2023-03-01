@@ -41,8 +41,10 @@ ga_tracking_anonymize_ip: false
 
 ### appear after search bar in upper right
 aux_links:
-  'Resume':
-    - 'https://maziyark.github.io/resume/'
+  'LinkedIn':
+    - 'https://www.linkedin.com/in/maziyark/'
+#  'Resume':
+#    - 'https://maziyark.github.io/resume/'https://www.linkedin.com/in/maziyark/
 
 # External navigation links
 nav_external_links:
