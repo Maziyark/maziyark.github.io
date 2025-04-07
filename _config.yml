@@ -17,7 +17,7 @@ title: Maziyar Keshavarzian
 full_title: Maziyar Keshavarzian
 #email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the perofessional web page of Maziyar Keshavarzian, PhD.
+  This is the perofessional web page of Maziyar Keshavarzian.
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
@@ -59,8 +59,6 @@ markdown: kramdown
 
 aux_links_new_tab: true
 
-  
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -89,8 +87,8 @@ exclude:
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.10.1
-#mermaid:
-#  version: "9.1.6"
+mermaid:
+  version: "9.1.6"
   
 # Collections for web data
 collections:
