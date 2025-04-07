@@ -106,6 +106,7 @@ defaults:
 
 # empty the footer
 #footer:  ""
+nav_enabled: true
 
 callouts_level: quiet # or loud
 callouts:
