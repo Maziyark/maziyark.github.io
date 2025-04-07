@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://maziyark.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username: maziyark
+#github_username: maziyark
 
 # 
 plugins:
@@ -47,11 +47,11 @@ aux_links:
 #    - 'https://maziyark.github.io/resume/'https://www.linkedin.com/in/maziyark/
 
 # External navigation links
-nav_external_links:
-  - title: Linkedin
-    url: https://www.linkedin.com/in/maziyark/
-  - title: Google Scholar
-    url: https://scholar.google.com/citations?user=59WprqwAAAAJ&hl=en
+#nav_external_links:
+#  - title: Linkedin
+#    url: https://www.linkedin.com/in/maziyark/
+#  - title: Google Scholar
+#    url: https://scholar.google.com/citations?user=59WprqwAAAAJ&hl=en
     
 # Build settings
 markdown: kramdown
