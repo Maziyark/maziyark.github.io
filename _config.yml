@@ -85,7 +85,8 @@ exclude:
    - package-lock.json
    - Rakefile
    - README.md
-
+include: 
+  - components/sidebar.html
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.3.3
 
