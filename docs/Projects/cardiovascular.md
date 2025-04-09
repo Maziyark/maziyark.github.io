@@ -30,7 +30,7 @@ nav_order: 2
 </p> 
 
 <p align="center" style="text-align: center;"> 
-    Classification-based super-resolution enhances cine-MRI resolution & improves accuracy of myocardial strains estimated from diffeomorphic demons.
+    Classification-based super-resolution enhances cine-MRI resolution & improves accuracy of myocardial strains estimated from diffeomorphic demons. <a href="https://github.com/Tanmay24Mukh/SRR_in_CMR">repo</a>
 </p> 
 
 <p align="center" style="text-align: center;"> 
