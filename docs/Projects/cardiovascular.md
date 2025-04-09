@@ -17,8 +17,8 @@ nav_order: 2
 ---
 
 ### CMA
-[CMA](https://github.com/mzyrke/CMA): Cardiac Mechanics Analyzer (CMA) is a set of python & MATLAB libraries for image-based analysis of cardiac contractile function through motion analysis, strain calculation, and resolution enhancement: 
-- Manuscripts: [Paper 01](https://link.springer.com/chapter/10.1007/978-3-030-78710-3_27)
+[CMA]([https://github.com/mzyrke/CMA](https://github.com/Tanmay24Mukh/SRR_in_CMR)): Cardiac Mechanics Analyzer (CMA) is a set of python & MATLAB libraries for image-based analysis of cardiac contractile function through motion analysis, strain calculation, and resolution enhancement: 
+- Manuscripts: [Paper 01](https://link.springer.com/chapter/10.1007/978-3-030-78710-3_27) ; [Paper 02](https://pmc.ncbi.nlm.nih.gov/articles/PMC11185553/)
 
 <p align="center" style="text-align: center;"> 
     Motion of mouse left <a href="https://en.wikipedia.org/wiki/Ventricle_(heart)">ventriclular</a> <a href="https://en.wikipedia.org/wiki/Endocardium">endocardium</a> estimated by deformable image registration of cine-MRI scans
@@ -27,6 +27,13 @@ nav_order: 2
 <p align="center" style="text-align: center;"> 
     <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/cine_mri_overlay_displacement_2d.gif?raw=true" alt="Mouse Left Ventricle." class="center"  width="350">
     <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/Mouse_Left_Ventricle_Endocardium_03.gif?raw=true" alt="Mouse Left Ventricle." class="center"  width="350"> 
+</p> 
+
+<p align="center" style="text-align: center;"> 
+    Classification-based super-resolution enhances cine-MRI resolution & improves accuracy of myocardial strains estimated from diffeomorphic demons.
+</p> 
+
+<p align="center" style="text-align: center;"> 
     <img src="https://github.com/Maziyark/maziyark.github.io/blob/gh-pages/assets/cine_mri_strains_mouse_lv_3d.gif?raw=true" alt="LV Strains." class="center" width ="800"> 
 </p> 
 
